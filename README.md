@@ -11,7 +11,17 @@ C++ Developer | Kernel Development | Low-Level Systems
 • Interested in **c++, reverse engineering, and low-level programming**  
 • Building tools, experimenting with new techniques, and learning how systems work internally  
 • Always researching and testing new things
+---
 
+---
+
+### All The Project Thats i made
+
+-Natzcheat
+-Revision
+-Killbyte
+-Rebirth
+-Paster Lounge
 ---
 
 ### Tech Stack
