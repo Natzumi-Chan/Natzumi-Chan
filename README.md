@@ -15,15 +15,15 @@ C++ Developer | Kernel Development | Low-Level Systems
 
 ---
 
-## Projects
+## My Projects
 
-Here are some of the projects I've worked on:
+Some of the projects I've developed or worked on:
 
-- **NatzCheat**
-- **Revision**
-- **Killbyte**
-- **Rebirth**
-- **Paster Lounge**
+• NatzCheat  
+• Revision  
+• Killbyte  
+• Rebirth  
+• Paster Lounge  
 
 ---
 
